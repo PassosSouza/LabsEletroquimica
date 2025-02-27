@@ -1,4 +1,4 @@
-# LabsEletroquímica
+# Práticas de Eletroquímica e Eletroanalítica
 
 Este repositório contém códigos utilizados para análise de dados na disciplina **Eletroquímica e Eletroanalítica (CTQ-012)**, ministrada pelo **Prof. Mauro Coelho dos Santos**. Aqui são documentados os experimentos realizados ao longo do curso.  
 
