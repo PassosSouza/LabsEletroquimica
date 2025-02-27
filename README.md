@@ -5,6 +5,7 @@ Este repositório contém códigos utilizados para análise de dados na discipli
 ## 📂 Experimentos  
 
 - **[Medição da Área Eletroativa de Eletrodos de Pt, Pd e Au](https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%201)**  
-  Neste experimento, foi realizada uma **voltametria cíclica** em um eletrodo de **Pt/C**, analisando sua área eletroativa.  
+  Neste experimento, foi realizada uma **voltametria cíclica** em um eletrodo de **Pt/C**, analisando sua área eletroativa.
+  Além da análise experimental, também foi adicionado um Notebook apresentando [formas de simular Voltametrias ciclícas]([https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%201/](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%201/Cyclic%20Voltammetry%20-%20From%20paper.ipynb).
 
 ... *(Novos experimentos serão adicionados em breve!)*  
