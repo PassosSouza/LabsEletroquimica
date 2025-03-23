@@ -23,7 +23,7 @@ Este repositório contém códigos e análises utilizados na disciplina **Eletro
        - [Simulação de corrente usando a equação de Nernst](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%202/Teorias/Visualizar_Nernst.ipynb)
        - [Simulação de voltametria cíclica usando a equação de Randles-Sevcik](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%202/Teorias/Eq%20Randles-Sevcik.ipynb)
        - [Simulação de eletrodo de disco rotatório](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%202/Teorias/RRDE_.ipynb)
-     - **Relatório**: *(Disponível em breve)*
+     - [**Relatório**](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%202/Relatorio2_ViniciusPassos.pdf)
    - **Pasta do experimento**: [Laboratório 2](https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%202)
 
 ---
