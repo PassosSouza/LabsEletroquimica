@@ -27,13 +27,13 @@ Este repositório contém códigos e análises utilizados na disciplina **Eletro
    - **Pasta do experimento**: [Laboratório 2](https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%202)
 
 ---
-### 3. **Estudos Voltamétricos : Oxidação de Etanol em eletrodos de Pt/C e Pd/C **
+### 3. **Estudos Voltamétricos : Oxidação de Etanol em eletrodos de Pt/C e Pd/C**
    - **Descrição**: Foram realizadas medidas de **voltametria cíclica**  em solução com KOH e etanol para eletrodos de Pt/C e Pd/C.
    - **Conteúdo**:
-      -**Visualização**:
+      - **Visualização**:
         - [Visualizaçao da voltametria de Oxidação](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%203/Pt-C_VC.ipynb)
-      -**Relatório** : *Em Breve*
-      -**Pasta do experimento**: [Laboratório 3](https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%203/Dados%20experimentais)
+      - **Relatório** : *Em Breve*
+   - **Pasta do experimento**: [Laboratório 3](https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%203/Dados%20experimentais)
 ---
 
 ### 4. **Novos Experimentos**
