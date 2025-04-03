@@ -32,7 +32,7 @@ Este repositório contém códigos e análises utilizados na disciplina **Eletro
    - **Conteúdo**:
       - **Visualização**:
         - [Visualizaçao da voltametria de Oxidação](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%203/Pt-C_VC.ipynb)
-      - **Relatório** : *Em Breve*
+      - [**Relatório**](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%203/Relatório_3___Oxidacao_Etanol.pdf) 
    - **Pasta do experimento**: [Laboratório 3](https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%203/Dados%20experimentais)
 ---
 
