@@ -30,13 +30,22 @@ Este repositório contém códigos e análises utilizados na disciplina **Eletro
 ### 3. **Estudos Voltamétricos : Oxidação de Etanol em eletrodos de Pt/C e Pd/C**
    - **Descrição**: Foram realizadas medidas de **voltametria cíclica**  em solução com KOH e etanol para eletrodos de Pt/C e Pd/C.
    - **Conteúdo**:
-      - **Visualização**:
+     - **Análises experimentais**: Todas as análises estão disponíveis, com títulos correspondentes às seções do relatório.
+     - **Visualização**:
         - [Visualizaçao da voltametria de Oxidação](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%203/Pt-C_VC.ipynb)
-      - [**Relatório**](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%203/Relatório_3___Oxidacao_Etanol.pdf) 
+     - [**Relatório**](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%203/Relatório_3___Oxidacao_Etanol.pdf) 
    - **Pasta do experimento**: [Laboratório 3](https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%203/Dados%20experimentais)
 ---
 
-### 4. **Novos Experimentos**
+### 4. **RRDE para análise de reação: Processo para RRO.**
+   - **Descrição**: Foram realizadas medições de voltametria para eletrodo de disco anel rotatório para a medição de processo de oxidação de oxigenio em anel de platina.
+   - **Conteúdo**:
+     - **Análises experimentais**: Todas as análises estão disponíveis, com títulos correspondentes às seções do relatório.
+   - **Pasta do experimento**: [Laboratório 4](https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%204/Dados%20Experimentais)
+
+---
+
+### 5. **Novos Experimentos**
    - **Descrição**: Novos experimentos serão adicionados em breve! Fique atento às atualizações.
 
 ---
