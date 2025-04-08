@@ -25,7 +25,7 @@ Este repositório contém códigos e análises utilizados na disciplina **Eletro
        - [Simulação de voltametria cíclica usando a equação de Randles-Sevcik](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%202/Teorias/Eq%20Randles-Sevcik.ipynb)
        - [Simulação de eletrodo de disco rotatório](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%202/Teorias/RRDE_.ipynb)
      - [**Relatório**](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%202/Relatorio2_ViniciusPassos.pdf)
-   - **Pasta do experimento**: [Dados Experimentais](https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%202/Dados%20experimentais)
+   - **Pasta do experimento**: [Dados Experimentais](https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%202/Dados%20Experimentais)
 
 ---
 ### 3. **Estudos Voltamétricos : Oxidação de Etanol em eletrodos de Pt/C e Pd/C**
