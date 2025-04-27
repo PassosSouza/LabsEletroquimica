@@ -42,13 +42,17 @@ Este repositório contém códigos e análises utilizados na disciplina **Eletro
    - **Descrição**: Foram realizadas medições de voltametria para eletrodo de disco anel rotatório para a medição de processo de oxidação de oxigenio em anel de platina.
    - **Conteúdo**:
      - **Análises experimentais**: Todas as análises estão disponíveis, com títulos correspondentes às seções do relatório.
-     - *Relatório*: *Em Breve*
+     -  [**Relatório**](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%204/Relatório%204%20-%20RRO.pdf) 
    - **Pasta do experimento**: [Dados Experimentais](https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%204/Dados%20Experimentais)
 
 ---
 
-### 5. **Novos Experimentos**
-   - **Descrição**: Novos experimentos serão adicionados em breve! Fique atento às atualizações.
+### 5. **Degradação de Rodamina em Eletrodo de Difusão**
+   - **Descrição**: Foi realizada uma cronoamperometria em um sistema com solução contendo rodamina. A cada 2 minutos foi retirada uma aliquota a qual foi usada em um UV-Vis, nos permitindo ver absorbância e assim nos permitindo ver presença da rodamina no decorrer do tempo.
+   - **Conteúdo**:
+     - **Análises experimentais**: Todas as análises estão disponíveis, com títulos correspondentes às seções do relatório.
+     - [**Relatório**](https://github.com/PassosSouza/LabsEletroquimica/blob/main/Laboratorio%205/Relatório_5___Degradação.pdf) 
+   - **Pasta do experimento**: [Dados Experimentais](https://github.com/PassosSouza/LabsEletroquimica/tree/main/Laboratorio%205/Dados%20Experimentais)
 
 ---
 
